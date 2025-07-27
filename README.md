@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Yidian Chen
 
-<!--
-**Llawlietcyd/Llawlietcyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate student majoring in Computer Information Science at The Ohio State University. I’m passionate about **machine learning**, and I enjoy working on real-world technical projects and open-source collaboration.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: ML applications & V2X communication
+- 🌱 Learning goals: model optimization, deployment, and applied AI research
+- 🎯 Long-term goal: Pursue graduate studies and contribute to socially impactful technology
+- 📫 Reach me at: chenyidian321@gmail.com
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yidian-chen-47a340290/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Pinned Projects
+
+Check out my featured repositories below!
